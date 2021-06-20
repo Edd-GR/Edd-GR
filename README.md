@@ -1,16 +1,21 @@
-### Hi there 👋
+# Getting started
+My name is Edd, I'm currently 21 years old and I'm a novice at programming.
 
-<!--
-**Edd-GR/Edd-GR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My current interests consist of:
+* Listening to music
+* Playing videogames
+* Lecture and recreative reading
 
-Here are some ideas to get you started:
+Here I will try to start a registry of my progress on the path of learning how to code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First and foremost I would like to build a list of my current objectives to learn:
+
+Subject | Current Progress
+--------|-----------------
+HTML | Zero
+Javascript | Zero
+CSS | Zero
+Python | Zero
+C++ | Zero
+
+*I want to get a hold of these elements as quick as possible, so I commit myself to update the before mentioned list regularly*
